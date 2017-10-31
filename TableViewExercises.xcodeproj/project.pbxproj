@@ -14,6 +14,7 @@
 		C45235CB1FA796A600AB7B16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C45235C91FA796A600AB7B16 /* LaunchScreen.storyboard */; };
 		C45235D61FA796A600AB7B16 /* TableViewExercisesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45235D51FA796A600AB7B16 /* TableViewExercisesTests.swift */; };
 		C45235E11FA796A600AB7B16 /* TableViewExercisesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45235E01FA796A600AB7B16 /* TableViewExercisesUITests.swift */; };
+		C46957021FA7AA8A00E03450 /* Q1Brain.swift in Sources */ = {isa = PBXBuildFile; fileRef = C46957011FA7AA8A00E03450 /* Q1Brain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C45235DC1FA796A600AB7B16 /* TableViewExercisesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewExercisesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C45235E01FA796A600AB7B16 /* TableViewExercisesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewExercisesUITests.swift; sourceTree = "<group>"; };
 		C45235E21FA796A600AB7B16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C46957011FA7AA8A00E03450 /* Q1Brain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1Brain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				C45235C01FA796A600AB7B16 /* AppDelegate.swift */,
 				C45235C21FA796A600AB7B16 /* ViewController.swift */,
 				C45235C41FA796A600AB7B16 /* Main.storyboard */,
+				C46957011FA7AA8A00E03450 /* Q1Brain.swift */,
 				C45235C71FA796A600AB7B16 /* Assets.xcassets */,
 				C45235C91FA796A600AB7B16 /* LaunchScreen.storyboard */,
 				C45235CC1FA796A600AB7B16 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				C45235C31FA796A600AB7B16 /* ViewController.swift in Sources */,
 				C45235C11FA796A600AB7B16 /* AppDelegate.swift in Sources */,
+				C46957021FA7AA8A00E03450 /* Q1Brain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
